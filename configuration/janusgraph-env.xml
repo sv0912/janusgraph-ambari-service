@@ -165,8 +165,8 @@ export JANUSGRAPH_LOGDIR={{janusgraph_log_dir}}
   </property>
   <property>
     <name>janusgraph_download_url</name>
-    <value>https://github.com/JanusGraph/janusgraph/releases/download/v0.2.0/janusgraph-0.2.0-hadoop2.zip</value>
-    <description>JanusGraph download url. Currently defaults to version 0.2.0.</description>
+    <value>https://github.com/JanusGraph/janusgraph/releases/download/v0.3.1/janusgraph-0.3.1-hadoop2.zip</value>
+    <description>JanusGraph download url. Currently defaults to version 0.3.1.</description>
   </property>
   <property>
     <name>janusgraph_install_dir</name>
